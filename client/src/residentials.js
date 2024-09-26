@@ -1020,7 +1020,8 @@ const residential = [
         Super_Phone: "212-851-1479",
         Super_Cell: "917-566-8662",
         Backup_Super: ", ",
-        Admin: "Ramirez, Laura"
+        Admin: "Ramirez, Laura",
+        image: images.Vujnovic_Mike
     },
     {
         Address: "511 West 112th Street",
@@ -1032,7 +1033,8 @@ const residential = [
         Super_Phone: "212-851-1479",
         Super_Cell: "917-566-8662",
         Backup_Super: ", ",
-        Admin: "Ramirez, Laura"
+        Admin: "Ramirez, Laura",
+        image: images.Vujnovic_Mike
     },
     {
         Address: "511 West 113th Street",
@@ -1046,7 +1048,8 @@ const residential = [
         Backup_Super: "Bright, Matthew",
         Backup_Super_Phone: "(212) 851-1278",
         Backup_Super_Cell: "(646) 627-0563",
-        Admin: "Ramirez, Laura"
+        Admin: "Ramirez, Laura",
+        image: images.Lopez_Albert
     },
     {
         Address: "512 West 112th Street",
@@ -1060,7 +1063,8 @@ const residential = [
         Backup_Super: "Stephens, David",
         Backup_Super_Phone: "(212) 853-7211",
         Backup_Super_Cell: "(347) 668-6081",
-        Admin: "Ramirez, Laura"
+        Admin: "Ramirez, Laura",
+        image: images.Vujnovic_Mike
     },
     {
         Address: "514 West 114th Street",
@@ -1074,7 +1078,8 @@ const residential = [
         Backup_Super: "Jimenez, Franklin",
         Backup_Super_Phone: "(212) 854-0499",
         Backup_Super_Cell: "(646) 957-2269",
-        Admin: "Ramirez, Laura"
+        Admin: "Ramirez, Laura",
+        image: images.Raspaldo_Robert
     },
     {
         Address: "518 West 111th Street",
@@ -1089,7 +1094,8 @@ const residential = [
         Backup_Super_Phone: "(212) 853-7212",
         Backup_Super_Cell: "(917) 985 - 0022",
         Admin: "Ramirez, Laura",
-        "Column17": "ami"
+        "Column17": "ami",
+        image: images.Rodriguez_Elvin
     },
     {
         Address: "519 West 121st Street",
@@ -1103,7 +1109,8 @@ const residential = [
         Backup_Super: "Perdomo, George L",
         Backup_Super_Phone: "(212) 854-0573",
         Backup_Super_Cell: "(646) 285-2941",
-        Admin: "Sablon, Betty"
+        Admin: "Sablon, Betty",
+        image: images.Ramirez_Luis
     },
     {
         Address: "520 West 112th Street",
@@ -1117,7 +1124,8 @@ const residential = [
         Backup_Super: "DeJesus, Luis",
         Backup_Super_Phone: "(212) 851-9448",
         Backup_Super_Cell: "(646) 574-2936 ",
-        Admin: "Ramirez, Laura"
+        Admin: "Ramirez, Laura",
+        image: images.Cuevas_Ray
     },
     {
         Address: "520 West 114th Street",
@@ -1131,7 +1139,8 @@ const residential = [
         Backup_Super: "Jimenez, Franklin",
         Backup_Super_Phone: "(212) 854-0499",
         Backup_Super_Cell: "(646) 957-2269",
-        Admin: "Ramirez, Laura"
+        Admin: "Ramirez, Laura",
+        image: images.Raspaldo_Robert
     },
     {
         Address: "520 West 122nd Street",
@@ -1145,7 +1154,8 @@ const residential = [
         Backup_Super: "Kalapnauth, Rohan",
         Backup_Super_Phone: "(212) 851-1830",
         Backup_Super_Cell: "(646) 660-1865",
-        Admin: "Sablon, Betty"
+        Admin: "Sablon, Betty",
+        image: images.No_Photo
     },
     {
         Address: "521 West 111th Street",
@@ -1159,7 +1169,8 @@ const residential = [
         Backup_Super: "Raspaldo Jr, Robert",
         Backup_Super_Phone: "(212) 853-7212",
         Backup_Super_Cell: "(917) 985 - 0022",
-        Admin: "Ramirez, Laura"
+        Admin: "Ramirez, Laura",
+        image: images.Rodriguez_Elvin
     },
     {
         Address: "521 West 112th Street",

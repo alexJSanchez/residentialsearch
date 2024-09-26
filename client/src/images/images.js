@@ -24,6 +24,12 @@ import Parker_Bruce from "../images/Parker_Bruce.jpg"
 import Figueroa_Gumersindo from "../images/Figueroa_Gumersindo.jpg"
 import Bright_Matthew from "../images/Bright_Matthew.jpg"
 import Perdomo_George from "../images/Perdomo_George.jpg"
+import Vujnovic_Mike from "../images/Vujnovic_Mike.jpg"
+import Lopez_Albert from "../images/Lopez_Albert.jpeg"
+import Raspaldo_Robert from "../images/Raspaldo_Robert.jpg"
+import Rodriguez_Elvin from "../images/Rodriguez_Elvin.jpg"
+import Ramirez_Luis from "../images/Ramirez_Luis.jpg"
+import Cuevas_Ray from "../images/Cuevas_Ray.jpg"
 
 export const images = {
     Rodriguez_Hector,
@@ -50,6 +56,12 @@ export const images = {
     Parker_Bruce,
     Figueroa_Gumersindo,
     Bright_Matthew,
-    Perdomo_George
+    Perdomo_George,
+    Vujnovic_Mike,
+    Lopez_Albert,
+    Raspaldo_Robert,
+    Rodriguez_Elvin,
+    Ramirez_Luis,
+    Cuevas_Ray
     // Add more images as needed
 };
