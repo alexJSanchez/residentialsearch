@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import residential from "../residentials"; // Assuming this is your data
 import '../index.css'; // Import the CSS file for styles
+import { images } from '../images/images'; // Import the images module
 
 const Home = () => {
     const [search, setSearch] = useState(''); 
@@ -9,23 +10,17 @@ const Home = () => {
     // Search function for both address and name
     function searchProperties(query) {
         const lowerCaseQuery = query.toLowerCase();
-        
-        // Use a Set to store unique properties based on a combination of address and name
         const uniqueProperties = new Set();
-        
-        // Filter the residential data
+
         const filteredResults = residential.filter(property => {
             const lowerCaseAddress = property.Address.toLowerCase();
             const lowerCaseSuper = property.Super.toLowerCase(); // Assuming 'Super' is the name field
             
-            // Check if the address or name matches the query
             const matchesAddress = lowerCaseAddress.includes(lowerCaseQuery);
             const matchesName = lowerCaseSuper.includes(lowerCaseQuery);
 
-            // Construct a unique key based on address and name for uniqueness
             const uniqueKey = `${property.Address}-${property.Super}`;
 
-            // Only add to the result if it matches and is not already in the Set
             if ((matchesAddress || matchesName) && !uniqueProperties.has(uniqueKey)) {
                 uniqueProperties.add(uniqueKey); // Add the unique key to the Set
                 return true; // Include in filtered result
@@ -64,6 +59,7 @@ const Home = () => {
                 {searchResult.length > 0 ? (    
                     searchResult.map((item, index) => (
                         <div key={index} className="result-card">
+                            <img src={item.image} alt={`Image of ${item.Super}`} className="result-image" />
                             <h4>{item.Super}</h4>
                             <h3>{item.Address}</h3>
                             <h5>{item.Super_Cell}</h5>

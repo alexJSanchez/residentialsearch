@@ -1,3 +1,4 @@
+import { images } from './images/images';
 const residential = [
     {
         Address: "100 Morningside Drive",
@@ -193,7 +194,8 @@ const residential = [
         Backup_Super: "Cruz, Jose",
         Backup_Super_Phone: "(212) 853-1961",
         Backup_Super_Cell: "(646) 891-6764",
-        Admin: "Ramirez, Laura"
+        Admin: "Ramirez, Laura",
+        image: images.Rodriguez_Hector
     },
     {
         Address: "29 Claremont Avenue",
@@ -3671,7 +3673,9 @@ const residential = [
         Backup_Super: "Cruz, Jose",
         Backup_Super_Phone: "(212) 853-1961",
         Backup_Super_Cell: "(646) 891-6764",
-        Admin: "Ramirez, Laura"
+        Admin: "Ramirez, Laura",
+        image: images.Rodriguez_Hector
+
     },
     {
         Address: "544 West 110th Street",

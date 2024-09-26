@@ -77,3 +77,31 @@ code {
   margin: 0;
   color: #777;
 }
+.results-container {
+  display: flex;
+  flex-wrap: wrap; /* Allows wrapping */
+  justify-content: space-around; /* Space out results evenly */
+  padding: 10px;
+}
+
+.result-card {
+  background: #f9f9f9; /* Light background for cards */
+  border: 1px solid #ddd; /* Light border */
+  border-radius: 8px;
+  padding: 15px;
+  margin: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Slight shadow */
+  width: 200px; /* Set a fixed width for each card */
+  text-align: center; /* Center the text */
+}
+
+.result-image {
+  width: 100%; /* Make the image responsive */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px; /* Rounded corners for the image */
+  margin-bottom: 10px; /* Space below the image */
+}
+
+.result-card h4, .result-card h3, .result-card h5 {
+  margin: 5px 0; /* Space around headings */
+}
