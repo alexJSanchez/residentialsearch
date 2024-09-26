@@ -1,9 +1,11 @@
 import React from "react";
-
+import residential from "../residentials";
 const Home = () => {
  return (
     <div>
-       wlecome to ethe home page
+       {residential.map(res => {
+            console.log(res)
+       })}
     </div>
  )
 }
