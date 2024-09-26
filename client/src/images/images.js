@@ -21,6 +21,9 @@ import Duka_Geri from "../images/Duka_Geri.jpeg"
 import Trejo_Emilio from "../images/Trejo_Emilio.jpg"
 import Ahmetaj_Dhurim from "../images/Ahmetaj_Dhurim.jpg"
 import Parker_Bruce from "../images/Parker_Bruce.jpg"
+import Figueroa_Gumersindo from "../images/Figueroa_Gumersindo.jpg"
+import Bright_Matthew from "../images/Bright_Matthew.jpg"
+import Perdomo_George from "../images/Perdomo_George.jpg"
 
 export const images = {
     Rodriguez_Hector,
@@ -44,6 +47,9 @@ export const images = {
     Duka_Geri,
     Trejo_Emilio,
     Ahmetaj_Dhurim,
-    Parker_Bruce
+    Parker_Bruce,
+    Figueroa_Gumersindo,
+    Bright_Matthew,
+    Perdomo_George
     // Add more images as needed
 };
