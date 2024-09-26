@@ -607,7 +607,8 @@ const residential = [
         Backup_Super: "Cruz, Robert",
         Backup_Super_Phone: "(212) 853-7204",
         Backup_Super_Cell: "(646) 946-1228",
-        Admin: "Sablon, Betty"
+        Admin: "Sablon, Betty",
+        image: images.No_Photo
     },
     {
         Address: "425 West 121st Street",
@@ -621,7 +622,9 @@ const residential = [
         Backup_Super: "Martinez, Miguel",
         Backup_Super_Phone: "(212) 853 - 7216",
         Backup_Super_Cell: "(917) 985-0016",
-        Admin: "Sablon, Betty"
+        Admin: "Sablon, Betty",
+        image: images.Duka_Geri
+
     },
     {
         Address: "430 West 116th Street",
@@ -635,7 +638,8 @@ const residential = [
         Backup_Super: "DeJesus, Luis",
         Backup_Super_Phone: "(212) 851-9448",
         Backup_Super_Cell: "(646) 574-2936 ",
-        Admin: "Manohar, Preyaa"
+        Admin: "Manohar, Preyaa",
+        image: images.Trejo_Emilio
     },
     {
         Address: "434 West 120th Street",
@@ -649,7 +653,8 @@ const residential = [
         Backup_Super: "Duka, Geri",
         Backup_Super_Phone: "(212) 851-2024 (main)",
         Backup_Super_Cell: "(646)745-5997",
-        Admin: "Sablon, Betty"
+        Admin: "Sablon, Betty",
+        image: images.Ahmetaj_Dhurim
     },
     {
         Address: "434 West 120th Street",
@@ -663,7 +668,8 @@ const residential = [
         Backup_Super: "Duka, Geri",
         Backup_Super_Phone: "(212) 851-2024 (main)",
         Backup_Super_Cell: "(646)745-5997",
-        Admin: "Sablon, Betty"
+        Admin: "Sablon, Betty",
+        image: images.Ahmetaj_Dhurim
     },
     {
         Address: "435 Riverside Drive",
@@ -677,7 +683,8 @@ const residential = [
         Backup_Super: "Freire, Geovany",
         Backup_Super_Phone: "212-566-4423",
         Backup_Super_Cell: "646-939-1040",
-        Admin: "Manohar, Preyaa"
+        Admin: "Manohar, Preyaa",
+        image: images.No_Photo
     },
     {
         Address: "435 West 119th Street",
@@ -691,7 +698,8 @@ const residential = [
         Backup_Super: "Duka, Geri",
         Backup_Super_Phone: "(212) 851-2024 (main)",
         Backup_Super_Cell: "(646)745-5997",
-        Admin: "Sablon, Betty"
+        Admin: "Sablon, Betty",
+        image: images.Ahmetaj_Dhurim
     },
     {
         Address: "435 West 119th Street",
@@ -705,7 +713,8 @@ const residential = [
         Backup_Super: "Duka, Geri",
         Backup_Super_Phone: "(212) 851-2024 (main)",
         Backup_Super_Cell: "(646)745-5997",
-        Admin: "Sablon, Betty"
+        Admin: "Sablon, Betty",
+        image: images.Ahmetaj_Dhurim
     },
     {
         Address: "438 West 116th Street",
@@ -719,7 +728,8 @@ const residential = [
         Backup_Super: "DeJesus, Luis",
         Backup_Super_Phone: "(212) 851-9448",
         Backup_Super_Cell: "(646) 574-2936 ",
-        Admin: "Manohar, Preyaa"
+        Admin: "Manohar, Preyaa",
+        image: images.Trejo_Emilio
     },
     {
         Address: "44 Morningside Drive",
@@ -733,7 +743,8 @@ const residential = [
         Backup_Super: "Trejo, Emilio",
         Backup_Super_Phone: "(212) 853-7203",
         Backup_Super_Cell: "(646) 265-6101",
-        Admin: "Sablon, Betty"
+        Admin: "Sablon, Betty",
+        image: images.Garcia_Marco
     },
     {
         Address: "445 Riverside Drive",
@@ -747,7 +758,8 @@ const residential = [
         Backup_Super: "Cruz, Jose",
         Backup_Super_Phone: "(212) 853-1961",
         Backup_Super_Cell: "(646) 891-6764",
-        Admin: "Manohar, Preyaa"
+        Admin: "Manohar, Preyaa",
+        image: images.Parker_Bruce
     },
     {
         Address: "445 Riverside Drive",

@@ -17,6 +17,10 @@ import Cassiliano_Gary from "../images/Cassiliano_Gary.jpeg"
 import Cruz_Robert from "../images/Cruz_Robert.jpg"
 import No_Photo from "../images/No_Photo.png"
 import Alvarado_Jorge from "../images/Alvarado_Jorge.jpg"
+import Duka_Geri from "../images/Duka_Geri.jpeg"
+import Trejo_Emilio from "../images/Trejo_Emilio.jpg"
+import Ahmetaj_Dhurim from "../images/Ahmetaj_Dhurim.jpg"
+import Parker_Bruce from "../images/Parker_Bruce.jpg"
 
 export const images = {
     Rodriguez_Hector,
@@ -36,6 +40,10 @@ export const images = {
     Cassiliano_Gary,
     Cruz_Robert,
     No_Photo,
-    Alvarado_Jorge
+    Alvarado_Jorge,
+    Duka_Geri,
+    Trejo_Emilio,
+    Ahmetaj_Dhurim,
+    Parker_Bruce
     // Add more images as needed
 };
