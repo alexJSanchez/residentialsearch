@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import residential from "../residentials"; // Assuming this is your data
+import '../index.css'; // Import the CSS file for styles
 
 const Home = () => {
     const [search, setSearch] = useState(''); 
@@ -59,10 +60,14 @@ const Home = () => {
             </form>
 
             {/* Display search results */}
-            <div className="search-results">
+            <div className="results-container">
                 {searchResult.length > 0 ? (    
                     searchResult.map((item, index) => (
-                        <div key={index}><h4>{item.Super}</h4><h3>{item.Address}</h3><h5>{item.Super_Cell}</h5></div> // Ensure each item has a unique key
+                        <div key={index} className="result-card">
+                            <h4>{item.Super}</h4>
+                            <h3>{item.Address}</h3>
+                            <h5>{item.Super_Cell}</h5>
+                        </div> // Ensure each item has a unique key
                     ))
                 ) : (
                     <p>No results found.</p> // Display message if no results are found
