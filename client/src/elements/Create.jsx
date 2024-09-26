@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 
-function Create(){
+const Create=()=>{
     const [values, setValues] = useState({
             name : '',
             super: '',
