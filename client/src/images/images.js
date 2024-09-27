@@ -29,7 +29,14 @@ import Lopez_Albert from "../images/Lopez_Albert.jpeg"
 import Raspaldo_Robert from "../images/Raspaldo_Robert.jpg"
 import Rodriguez_Elvin from "../images/Rodriguez_Elvin.jpg"
 import Ramirez_Luis from "../images/Ramirez_Luis.jpg"
-import Cuevas_Ray from "../images/Cuevas_Ray.jpg"
+import Cuevas_Raymond from "../images/Cuevas_Raymond.jpg"
+import Stephens_David from "../images/Stephens_David.jpg"
+import Cirino_William from "../images/Cirino_William.jpeg"
+import Santamaria_Ricardo from "../images/Santamaria_Ricardo.jpg"
+import Kore_Denis from "../images/Kore_Denis.jpg"
+import Mero_Hugo from "../images/Mero_Hugo.jpeg"
+
+
 
 export const images = {
     Rodriguez_Hector,
@@ -62,6 +69,11 @@ export const images = {
     Raspaldo_Robert,
     Rodriguez_Elvin,
     Ramirez_Luis,
-    Cuevas_Ray
+    Cuevas_Raymond,
+    Stephens_David,
+    Cirino_William,
+    Santamaria_Ricardo,
+    Kore_Denis,
+    Mero_Hugo
     // Add more images as needed
 };
