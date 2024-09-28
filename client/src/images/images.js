@@ -34,7 +34,7 @@ import Stephens_David from "../images/Stephens_David.jpg"
 import Cirino_William from "../images/Cirino_William.jpeg"
 import Santamaria_Ricardo from "../images/Santamaria_Ricardo.jpg"
 import Kore_Denis from "../images/Kore_Denis.jpg"
-import Mero_Hugo from "../images/Mero_Hugo.jpeg"
+import Mero_Hugo from "../images/Mero_Hugo.jpg"
 
 
 

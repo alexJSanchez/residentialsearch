@@ -1125,7 +1125,7 @@ const residential = [
         Backup_Super_Phone: "(212) 851-9448",
         Backup_Super_Cell: "(646) 574-2936 ",
         Admin: "Ramirez, Laura",
-        image: images.Cuevas_Ray
+        image: images.Cuevas_Raymond
     },
     {
         Address: "520 West 114th Street",
@@ -1795,7 +1795,7 @@ const residential = [
         Backup_Super: "Alameda, Michael",
         Backup_Super_Phone: "1 212 854 4700",
         Admin: "Ramirez, Laura",
-        image: image.No_Photo
+        image: images.No_Photo
     },
     {
         Address: "600 West 114th Street",

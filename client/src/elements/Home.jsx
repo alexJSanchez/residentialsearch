@@ -63,6 +63,7 @@ const Home = () => {
                             <h4>{item.Super}</h4>
                             <h3>{item.Address}</h3>
                             <h5>{item.Super_Cell}</h5>
+                            <h5>{item.Super_Phone}</h5>
                         </div> // Ensure each item has a unique key
                     ))
                 ) : (
